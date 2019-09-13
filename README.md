@@ -105,8 +105,9 @@ The parameters are divided into 7 sections:
 	             distance function and the original objective function.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-OBJ - Objective-function parameters
+- OBJ - Objective-function parameters
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  - <fitness-type>: defines how the fitness is computed:
 	+ Convex: the convex combination (beta * Delta) + (1 - beta) * zeta
 	  where "Delta" is the the distance between a LP feasible and
@@ -120,10 +121,11 @@ OBJ - Objective-function parameters
    Usually, this is done using a geometric decay. If it is equal to 1.0, nothing is changed.
  - <decay-application-offset>: the number of iterations without improvement before apply
    the decay in minimization factor.
-
-FP - feasibility pump
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- FP - feasibility pump
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  - <feas-pump-param: iteration_limit>: maximum number of iterations without improvement.
  - <feas-pump-param: perturb_when_cycling>: indicates if a perturbation must be done when FP cycles.
 	+ Perturb: does the shaking.
@@ -134,14 +136,18 @@ FP - feasibility pump
    in the cycling detection. This is the lower bound.
  - <feas-pump-param: rho_ub>: Parameter used to control the strong perturbation
    in the cycling detection. This is the upper bound.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-OFP - Objective-function feasibility pump
+- OFP - Objective-function feasibility pump
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  - <obj-feas-pump-param: phi>: this is the decay factor used to change the
    objective function in the LP phase if using objective feasibility pump.
  - <obj-feas-pump-param: delta>: this is the minimum difference between two
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-FIXING - paramaters for variable fixing
+- FIXING - paramaters for variable fixing
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
    iterations. This parameter is used to detect cycling in the objective feasibility pump.
  - <var_fixing_percentage>: percentage of variables to be fixed. Range [0,1].
@@ -155,15 +161,18 @@ FIXING - paramaters for variable fixing
 	+ Fractionals: Fix variables such value is splitted between zeros and ones
 	               among the roundings.
 	+ Automatic: let the algorithm decide (using LP relaxation info).
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-ROUNDINGCUT - parameters to control the rouding
+- ROUNDINGCUT - parameters to control the rouding
+
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  - <roundcuts_percentage>: percentage of the population used to produce
    cuts avoind such (infeasible) roundings. Range [0,1].
-
-MIPLOCALSEARCH - parameters to control the MIP phase
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- MIPLOCALSEARCH - parameters to control the MIP phase
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  - <miplocalsearch-threshold>: maximum percentage of fractional variables to
    launch a MIP local search. Range [0,1].
  - <miplocalsearch-discrepancy_level>:  Defines the discrepancy level to be used
@@ -180,3 +189,4 @@ MIPLOCALSEARCH - parameters to control the MIP phase
 	+ All: consider all constraints (not filtering at all).
 	+ Duals: only constraints such dual values in the relaxation are not zero.
 	+ SlacksAndDuals: as in "Duals" but also consider constraints with slacl values equal to zero.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
