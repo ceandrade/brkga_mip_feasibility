@@ -226,4 +226,5 @@ Yes, this is a very long line to be written. So, I do recommend to use the
 API documentation
 -------------------------------------------------------------------------------
 
-Please, follow [this link]() or browse on `doc` folder.
+Please, follow [this link](https://ceandrade.github.io/brkga_mip_feasibility/) 
+or browse on `docs` folder.
