@@ -1,0 +1,43 @@
+<map id="dominiqs::isNull" name="dominiqs::isNull">
+<area shape="rect" id="node1" title=" " alt="" coords="1088,711,1204,737"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1Model.html#ad5bd8a0173cff9c580fe5f417164aa45" title=" " alt="" coords="849,5,1019,32"/>
+<area shape="rect" id="node3" href="$classLogicFactory.html#a4358d1c07e95e3acdabb145247a97fb4" title=" " alt="" coords="858,56,1010,83"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1GomorySeparator.html#a85de8b1c9e5167d4bd0e5002ea246f66" title=" " alt="" coords="585,91,774,133"/>
+<area shape="rect" id="node8" href="$classCardinalityProp.html#aaf1f55d0e55f29441b9ba29a28135a6b" title=" " alt="" coords="828,711,1040,737"/>
+<area shape="rect" id="node9" href="$namespacedominiqs.html#a21f0c6dc1a303018db3e08078a5e6fb5" title=" " alt="" coords="862,761,1006,788"/>
+<area shape="rect" id="node10" href="$classdominiqs_1_1Model.html#a2b77f9b9c52eaa40c1f02d8c7d6cde77" title=" " alt="" coords="353,173,519,200"/>
+<area shape="rect" id="node16" href="$classImpliesProp.html#a5266765a0990c9930bebe72b8eebb13d" title=" " alt="" coords="849,812,1019,839"/>
+<area shape="rect" id="node17" href="$namespacedominiqs.html#aac9559f3bf6c13686afeafe0ade590ca" title=" " alt="" coords="867,311,1001,337"/>
+<area shape="rect" id="node23" href="$classdominiqs_1_1FeasibilityPump.html#a83afa4e9b97bfdfce17e57d3cba0bfe0" title=" " alt="" coords="347,391,525,433"/>
+<area shape="rect" id="node24" href="$classdominiqs_1_1FeasibilityPump.html#a3749ee324bcb33383f455e4b46f95c07" title=" " alt="" coords="110,423,287,465"/>
+<area shape="rect" id="node25" href="$classdominiqs_1_1FeasibilityPump.html#ab722f6e1ad8d967c529dd4a210f77e41" title=" " alt="" coords="347,457,525,498"/>
+<area shape="rect" id="node26" href="$classdominiqs_1_1FeasibilityPump.html#ac3cce7bf39d1c37820eb755103a7c985" title=" " alt="" coords="347,522,525,563"/>
+<area shape="rect" id="node28" href="$classKnapsackProp.html#ac657ee86522b0b6eb50068ea40cdcb3f" title=" " alt="" coords="833,863,1035,889"/>
+<area shape="rect" id="node29" href="$classLinearProp.html#a162a62b2949ef5da598a58643a88c750" title=" " alt="" coords="854,913,1014,940"/>
+<area shape="rect" id="node30" href="$classEquivProp.html#a1ac142b4eb7725d9ed2e53ef4a91412d" title=" " alt="" coords="859,964,1009,991"/>
+<area shape="rect" id="node31" href="$classPropagationEngine.html#acb87bffec111fb12178ed3a148b57a2b" title=" " alt="" coords="863,1015,1005,1057"/>
+<area shape="rect" id="node32" href="$classdominiqs_1_1FeasibilityPump.html#ae6f172bd86151ad03a1f732d23636884" title=" " alt="" coords="591,442,768,483"/>
+<area shape="rect" id="node33" href="$classDomain.html#a309d535534a2c150d9a63174ea09e3d3" title=" " alt="" coords="869,1132,999,1159"/>
+<area shape="rect" id="node38" href="$classDomain.html#ab645cfe5e14ccdb3374308e01a0c419e" title=" " alt="" coords="868,1081,1000,1108"/>
+<area shape="rect" id="node40" href="$classVarLowerBoundProp.html#af63b7f02a1b1a20ab0f9089a8ef6c537" title=" " alt="" coords="857,1183,1011,1225"/>
+<area shape="rect" id="node41" href="$classVarUpperBoundProp.html#a50f96452a34a38b103747dc9bec7768a" title=" " alt="" coords="857,1249,1011,1290"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1GomorySeparator.html#a61dce290a399df0f5658d49f32ee76b9" title=" " alt="" coords="341,91,531,133"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1GomorySeparator.html#acff352cbc1d4b36a9d2d4db34bc67908" title=" " alt="" coords="104,29,293,70"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1GomorySeparator.html#a8b29df558feb926bb5f9228597784627" title=" " alt="" coords="104,94,293,135"/>
+<area shape="rect" id="node11" href="$classFeasibilityPump__Decoder.html#aeda19142d5df55d21e29a75dfec6d0e5" title="Initialize the data structures and perform the preprocessing. NOTE: call before decode any thing." alt="" coords="112,163,285,205"/>
+<area shape="rect" id="node13" href="$classdominiqs_1_1FeasibilityPump.html#a1a9d43a0edbe6876dd3fdf8369f00d8a" title=" " alt="" coords="110,229,287,270"/>
+<area shape="rect" id="node15" href="$test__fp2__propagator_8cpp.html#a5ad27ca95fff945a0b8229e5f97c09fb" title=" " alt="" coords="173,295,224,321"/>
+<area shape="rect" id="node12" href="$fix__and__local__search__random_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,171,56,197"/>
+<area shape="rect" id="node14" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="5,312,56,339"/>
+<area shape="rect" id="node18" href="$classdominiqs_1_1Model.html#ad00120f2d468b75301a7d5b5405548b7" title=" " alt="" coords="590,209,769,250"/>
+<area shape="rect" id="node20" href="$classdominiqs_1_1Model.html#ae24ef9327da826db4a7aa5d178d30764" title=" " alt="" coords="591,274,768,315"/>
+<area shape="rect" id="node22" href="$feaspump_8cpp.html#ad149a431d53147d3589080d253b89508" title=" " alt="" coords="619,508,740,535"/>
+<area shape="rect" id="node27" href="$feaspump_8cpp.html#ad2a5db465a2af86ce8c1d25280cc625c" title=" " alt="" coords="602,340,757,367"/>
+<area shape="rect" id="node19" href="$classdominiqs_1_1Model.html#aeedb197bcecd2364d3737f9dc22fc138" title=" " alt="" coords="351,224,521,251"/>
+<area shape="rect" id="node21" href="$classdominiqs_1_1Model.html#a9f82fbea296b7fc21326a9d4d1d24a69" title=" " alt="" coords="343,281,529,308"/>
+<area shape="rect" id="node34" href="$classLexLessEqualProp.html#a8cd782347aa5edc02fab809d9bd50a20" title=" " alt="" coords="579,1157,780,1184"/>
+<area shape="rect" id="node35" href="$classVarLowerBoundProp.html#a67871d702d9d949640ef322801674cf1" title=" " alt="" coords="603,1209,756,1250"/>
+<area shape="rect" id="node36" href="$classLinearProp.html#a2faa358a5eadb9b9d4d855f5d28f8591" title=" " alt="" coords="602,1056,757,1083"/>
+<area shape="rect" id="node37" href="$classKnapsackProp.html#a07c11f1b3c9100ad4e7e4637ec216951" title=" " alt="" coords="591,1107,767,1133"/>
+<area shape="rect" id="node39" href="$classVarUpperBoundProp.html#aaa967ba6c688d634666312394a98a1aa" title=" " alt="" coords="603,990,756,1031"/>
+</map>

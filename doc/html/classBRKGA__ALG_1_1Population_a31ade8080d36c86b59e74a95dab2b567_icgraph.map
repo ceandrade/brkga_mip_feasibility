@@ -1,0 +1,4 @@
+<map id="BRKGA_ALG::Population::getFitness" name="BRKGA_ALG::Population::getFitness">
+<area shape="rect" id="node1" title="Returns the fitness of chromosome i." alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node2" href="$classBRKGA__ALG_1_1Population.html#a0821dafba2e2572b41bd7319c3a6617d" title="Returns the best fitness in this population." alt="" coords="5,5,179,47"/>
+</map>

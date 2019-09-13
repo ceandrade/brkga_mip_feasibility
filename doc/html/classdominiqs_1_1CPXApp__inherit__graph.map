@@ -1,0 +1,4 @@
+<map id="dominiqs::CPXApp" name="dominiqs::CPXApp">
+<area shape="rect" id="node1" title="Provides a basic Cplex commmand&#45;line application It adds to the basic App the following Cplex&#45;related..." alt="" coords="21,351,155,604"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1App.html" title="Provides a basic commmand&#45;line application logic." alt="" coords="5,5,171,303"/>
+</map>

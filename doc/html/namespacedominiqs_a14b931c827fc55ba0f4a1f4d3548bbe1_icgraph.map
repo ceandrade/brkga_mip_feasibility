@@ -1,0 +1,40 @@
+<map id="dominiqs::equal" name="dominiqs::equal">
+<area shape="rect" id="node1" title=" " alt="" coords="852,458,968,485"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1Model.html#ad5bd8a0173cff9c580fe5f417164aa45" title=" " alt="" coords="607,7,777,34"/>
+<area shape="rect" id="node3" href="$classLogicFactory.html#a4358d1c07e95e3acdabb145247a97fb4" title=" " alt="" coords="616,58,768,85"/>
+<area shape="rect" id="node4" href="$classCardinalityProp.html#aaf1f55d0e55f29441b9ba29a28135a6b" title=" " alt="" coords="586,109,798,135"/>
+<area shape="rect" id="node5" href="$classLexLessEqualProp.html#a3440489654a93983fa8a5f74e7b69343" title=" " alt="" coords="580,210,804,237"/>
+<area shape="rect" id="node6" href="$classLexLessEqualProp.html#a49d7e664d8d413c6b1ae9019bba2f852" title=" " alt="" coords="340,136,523,177"/>
+<area shape="rect" id="node11" href="$classdominiqs_1_1Model.html#a2b77f9b9c52eaa40c1f02d8c7d6cde77" title=" " alt="" coords="609,261,775,287"/>
+<area shape="rect" id="node14" href="$classdominiqs_1_1FeasibilityPump.html#a1a9d43a0edbe6876dd3fdf8369f00d8a" title=" " alt="" coords="343,319,520,360"/>
+<area shape="rect" id="node17" href="$classDomain.html#ac573761a5689863f41c31d8d78585d35" title=" " alt="" coords="621,713,763,739"/>
+<area shape="rect" id="node24" href="$classDomain.html#a815d8e5b4e6b44444ee20f419783f7d3" title=" " alt="" coords="629,662,755,689"/>
+<area shape="rect" id="node25" href="$classLexLessEqualProp.html#aa9de8328518bf9b44018c3fa0552e121" title=" " alt="" coords="597,764,787,805"/>
+<area shape="rect" id="node26" href="$structdominiqs_1_1cutptr__equal.html#a68186aafd5e876e9e7306017b4f115d6" title=" " alt="" coords="614,829,770,871"/>
+<area shape="rect" id="node27" href="$classdominiqs_1_1FeasibilityPump.html#af6cd35c7ab7b01d9c59644702f2e9e49" title=" " alt="" coords="603,545,781,587"/>
+<area shape="rect" id="node28" href="$classdominiqs_1_1FeasibilityPump.html#a83afa4e9b97bfdfce17e57d3cba0bfe0" title=" " alt="" coords="343,436,520,477"/>
+<area shape="rect" id="node30" href="$classdominiqs_1_1FeasibilityPump.html#ab722f6e1ad8d967c529dd4a210f77e41" title=" " alt="" coords="343,501,520,543"/>
+<area shape="rect" id="node31" href="$classDomain.html#aa6ff46d9e5c8ff2e2026b175e4fdbd9b" title=" " alt="" coords="629,895,755,922"/>
+<area shape="rect" id="node33" href="$classdominiqs_1_1FeasibilityPump.html#ae6f172bd86151ad03a1f732d23636884" title=" " alt="" coords="603,480,781,521"/>
+<area shape="rect" id="node34" href="$classdominiqs_1_1FeasibilityPump.html#ac3cce7bf39d1c37820eb755103a7c985" title=" " alt="" coords="603,363,781,404"/>
+<area shape="rect" id="node35" href="$classEquivProp.html#a0d6b40c7f47e372346e90be59ea476d3" title=" " alt="" coords="611,967,773,994"/>
+<area shape="rect" id="node7" href="$classLexLessEqualPropAdvisor.html#af70ed22f02c9d182c001ba8c2903f3bb" title=" " alt="" coords="104,71,283,112"/>
+<area shape="rect" id="node8" href="$classLexLessEqualPropAdvisor.html#a794e6fee196f89d8afedd3ac51fda47b" title=" " alt="" coords="104,136,283,177"/>
+<area shape="rect" id="node9" href="$classLexLessEqualPropAdvisor.html#a5364aec2672b2b820f8ff55a373603b9" title=" " alt="" coords="104,201,283,243"/>
+<area shape="rect" id="node10" href="$classLexLessEqualPropAdvisor.html#adc62e90ce32de08264b4754a550e99ac" title=" " alt="" coords="104,5,283,47"/>
+<area shape="rect" id="node12" href="$classFeasibilityPump__Decoder.html#aeda19142d5df55d21e29a75dfec6d0e5" title="Initialize the data structures and perform the preprocessing. NOTE: call before decode any thing." alt="" coords="345,253,518,295"/>
+<area shape="rect" id="node16" href="$test__fp2__propagator_8cpp.html#a5ad27ca95fff945a0b8229e5f97c09fb" title=" " alt="" coords="406,202,457,229"/>
+<area shape="rect" id="node13" href="$fix__and__local__search__random_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="168,267,219,294"/>
+<area shape="rect" id="node15" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="5,385,56,411"/>
+<area shape="rect" id="node18" href="$classLexLessEqualProp.html#a8cd782347aa5edc02fab809d9bd50a20" title=" " alt="" coords="331,669,532,695"/>
+<area shape="rect" id="node19" href="$classImpliesProp.html#a89e6123e88d917103b8d51f6c4aecae0" title=" " alt="" coords="351,719,511,746"/>
+<area shape="rect" id="node20" href="$classLinearProp.html#a2faa358a5eadb9b9d4d855f5d28f8591" title=" " alt="" coords="354,770,509,797"/>
+<area shape="rect" id="node21" href="$classEquivProp.html#a1ac142b4eb7725d9ed2e53ef4a91412d" title=" " alt="" coords="356,821,507,847"/>
+<area shape="rect" id="node22" href="$classCardinalityProp.html#a32f864cbf0fec37fc625a5d7c2e6a396" title=" " alt="" coords="341,567,521,594"/>
+<area shape="rect" id="node23" href="$classKnapsackProp.html#a07c11f1b3c9100ad4e7e4637ec216951" title=" " alt="" coords="343,618,519,645"/>
+<area shape="rect" id="node29" href="$classdominiqs_1_1FeasibilityPump.html#a3749ee324bcb33383f455e4b46f95c07" title=" " alt="" coords="105,407,282,448"/>
+<area shape="rect" id="node32" href="$classPropagatorRounding.html#a39cb71aa4b3b72a86fa2732c27243e8f" title=" " alt="" coords="359,880,504,921"/>
+<area shape="rect" id="node36" href="$classEquivProp.html#a8eb41022ce48f54fb8a85fc20e401ce1" title=" " alt="" coords="355,946,507,973"/>
+<area shape="rect" id="node37" href="$classEquivAdvisor.html#a81ec7ed5533f59bdc80350f097bc0b07" title=" " alt="" coords="347,997,516,1023"/>
+<area shape="rect" id="node38" href="$classEquivAdvisor.html#a060aa513a1ddd56ca9292d8f0f78a7f5" title=" " alt="" coords="355,1047,507,1074"/>
+</map>

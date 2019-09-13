@@ -1,0 +1,27 @@
+var maths_8h =
+[
+    [ "SparseVector", "classdominiqs_1_1SparseVector.html", "classdominiqs_1_1SparseVector" ],
+    [ "Constraint", "classdominiqs_1_1Constraint.html", "classdominiqs_1_1Constraint" ],
+    [ "IncrementalVariance", "classdominiqs_1_1IncrementalVariance.html", "classdominiqs_1_1IncrementalVariance" ],
+    [ "IncrementalGeomMean", "classdominiqs_1_1IncrementalGeomMean.html", "classdominiqs_1_1IncrementalGeomMean" ],
+    [ "IncrementalMean", "classdominiqs_1_1IncrementalMean.html", "classdominiqs_1_1IncrementalMean" ],
+    [ "ConstraintPtr", "maths_8h.html#ab6f2e09358b184ebb3ef230b615df4cb", null ],
+    [ "FloatVectorPtr", "maths_8h.html#a74ed30e6dd53856a667a33ae9c649a2c", null ],
+    [ "IntegerVectorPtr", "maths_8h.html#a57472ac357a6c527f730ca01553a7ec4", null ],
+    [ "SparseVectorPtr", "maths_8h.html#aef468bdc92629efe9698786862dbf719", null ],
+    [ "accumulate", "maths_8h.html#a643d766b9b4b57f222028ce6a642d184", null ],
+    [ "accumulate", "maths_8h.html#ad048657dd720f665db3146fae5633b89", null ],
+    [ "accumulate", "maths_8h.html#ab45ce398a33ef35c61e19be76a13d204", null ],
+    [ "disjoint", "maths_8h.html#a8442d8e7b3d8a569d4d5f26a40f607ef", null ],
+    [ "dotProduct", "maths_8h.html#a2f451beecc64baee1c6641d9bd83a694", null ],
+    [ "dotProduct", "maths_8h.html#a9d90aee673e0e20f403bf5b07ba40e47", null ],
+    [ "dotProduct", "maths_8h.html#a84d07896d1ab55f6d5f25e0348dcee93", null ],
+    [ "euclidianDistance", "maths_8h.html#ae6bc5bd5bc4b9d18c31f3c2fb25c771f", null ],
+    [ "euclidianNorm", "maths_8h.html#ad75e78dcd5bd6a956ee89f571404a039", null ],
+    [ "geomMean", "maths_8h.html#ae96f7fe54249a29c832b61290c5cb8df", null ],
+    [ "iota", "maths_8h.html#a28136875fc4b335696426df7d54d5fe3", null ],
+    [ "lexComp", "maths_8h.html#add6fef9a416c7ab35c9ba0cc8504f610", null ],
+    [ "mean", "maths_8h.html#a7dba16210ff9587eb7e1e0f5afa3a7c8", null ],
+    [ "scale", "maths_8h.html#a12d8a32c03f6bde73798e2a7d9c66389", null ],
+    [ "variance", "maths_8h.html#a152245343d95f3cc4eea11eee93747f0", null ]
+];

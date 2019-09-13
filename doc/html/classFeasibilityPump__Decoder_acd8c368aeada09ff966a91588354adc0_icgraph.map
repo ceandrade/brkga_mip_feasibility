@@ -1,0 +1,4 @@
+<map id="FeasibilityPump_Decoder::fixPerBlocks" name="FeasibilityPump_Decoder::fixPerBlocks">
+<area shape="rect" id="node1" title="This is a linear function to fix variables. In the worst case, when we have several failures on fixin..." alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node2" href="$classFeasibilityPump__Decoder.html#a6341fb645a8059c7bb62d0ae136e6f18" title="Builds a histogram of the alleles of genes from the best chromosomes and try to fix variables using t..." alt="" coords="5,5,179,47"/>
+</map>

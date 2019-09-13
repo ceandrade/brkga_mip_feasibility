@@ -1,0 +1,15 @@
+<map id="VarUpperBoundProp" name="VarUpperBoundProp">
+<area shape="rect" id="node1" title="Propagator for Variable Upper Bound constraint." alt="" coords="661,3347,827,3541"/>
+<area shape="rect" id="node2" href="$classPropagator.html" title="Propagator interface." alt="" coords="679,2765,809,3297"/>
+<area shape="rect" id="node3" href="$classDomain.html" title=" " alt="" coords="368,2185,512,2703"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1numarray.html" title=" " alt="" coords="5,1151,160,2108"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1numarray.html" title="Vector replacement for numerical data." alt="" coords="260,160,431,1088"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1numarray.html" title=" " alt="" coords="184,1151,339,2108"/>
+<area shape="rect" id="node8" href="$classdominiqs_1_1numarray.html" title=" " alt="" coords="363,1151,517,2108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="402,13,441,90"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="460,585,575,663"/>
+<area shape="rect" id="node9" title=" " alt="" coords="542,1591,706,1668"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="601,585,681,663"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="578,5,705,97"/>
+<area shape="rect" id="node13" href="$classPropagatorFactory.html" title=" " alt="" coords="782,2325,954,2563"/>
+</map>

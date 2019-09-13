@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classRanker.html" title="Ranker Base Class." alt="" coords="5,56,71,83"/>
+<area shape="rect" id="node2" href="$classFractionalityRanker.html" title="Rank variables in order of increasing fractionality always preferring binary variables to general int..." alt="" coords="119,5,256,32"/>
+<area shape="rect" id="node3" href="$classLeftToRightRanker.html" title="Rank variables from left to right." alt="" coords="121,56,254,83"/>
+<area shape="rect" id="node4" href="$classRandomRanker.html" title="Rank variables randomly." alt="" coords="129,107,245,133"/>
+</map>

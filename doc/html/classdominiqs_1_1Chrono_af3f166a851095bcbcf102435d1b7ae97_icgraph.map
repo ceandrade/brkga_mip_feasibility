@@ -1,0 +1,18 @@
+<map id="dominiqs::Chrono::start" name="dominiqs::Chrono::start">
+<area shape="rect" id="node1" title=" " alt="" coords="720,371,880,398"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1GomorySeparator.html#a85de8b1c9e5167d4bd0e5002ea246f66" title=" " alt="" coords="481,80,671,121"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1GomorySeparator.html#a8b29df558feb926bb5f9228597784627" title=" " alt="" coords="5,53,195,95"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1AutoChrono.html#accb213d79abea4c5006fe20831448890" title=" " alt="" coords="499,145,653,187"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1GomorySeparator.html#a245e02327ac4dbec0a11c7c36ef3af53" title=" " alt="" coords="481,211,671,252"/>
+<area shape="rect" id="node8" href="$classdominiqs_1_1GomorySeparator.html#a414da3e50d1fbad6685e74c9d269defd" title=" " alt="" coords="481,276,671,317"/>
+<area shape="rect" id="node9" href="$classdominiqs_1_1Chrono.html#aee2380c76e5442959976e76f0a48074a" title=" " alt="" coords="487,342,665,369"/>
+<area shape="rect" id="node10" href="$classdominiqs_1_1CpxPresolver.html#a1b9945032f315740c4c2b9f78a2d1a34" title=" " alt="" coords="495,393,657,435"/>
+<area shape="rect" id="node12" href="$classdominiqs_1_1GlobalAutoChrono.html#a380222307745854beeca8ae6520a7449" title=" " alt="" coords="480,459,672,500"/>
+<area shape="rect" id="node13" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="75,554,125,581"/>
+<area shape="rect" id="node14" href="$classdominiqs_1_1FeasibilityPump.html#a3749ee324bcb33383f455e4b46f95c07" title=" " alt="" coords="249,601,426,643"/>
+<area shape="rect" id="node15" href="$classdominiqs_1_1FeasibilityPump.html#a83afa4e9b97bfdfce17e57d3cba0bfe0" title=" " alt="" coords="487,627,665,668"/>
+<area shape="rect" id="node16" href="$classdominiqs_1_1FeasibilityPump.html#ab722f6e1ad8d967c529dd4a210f77e41" title=" " alt="" coords="487,692,665,733"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1GomorySeparator.html#a61dce290a399df0f5658d49f32ee76b9" title=" " alt="" coords="243,180,432,221"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1GomorySeparator.html#acff352cbc1d4b36a9d2d4db34bc67908" title=" " alt="" coords="5,180,195,221"/>
+<area shape="rect" id="node11" href="$classdominiqs_1_1CPXApp.html#ac192eafe5df558b4ba9c5a2c50d2413e" title="additional startup work create env / lp objects presolve to be extended in derived classes (optional)" alt="" coords="246,401,429,427"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="LinearProp" name="LinearProp">
+<area shape="rect" id="node1" title="Propagator for the linear (ranged) constraint lhs &lt;= a^T x &lt;= rhs." alt="" coords="5,629,136,912"/>
+<area shape="rect" id="node2" href="$classPropagator.html" title="Propagator interface." alt="" coords="5,5,136,581"/>
+</map>

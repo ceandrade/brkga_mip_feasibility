@@ -1,0 +1,18 @@
+\form#0:$ l_j $
+\form#1:$ u_j $
+\form#2:$ c_j $
+\form#3:$ a_i $
+\form#4:$ b_i $
+\form#5:$\Delta$
+\form#6:$\zeta$
+\form#7:$\beta\Delta + (1 - \beta)\zeta$
+\form#8:$\beta$
+\form#9:$c$
+\form#10:$\beta \Delta(\tilde{x}, \bar{x}) + (1 - \beta) \zeta$
+\form#11:$\Delta(\tilde{x}, \bar{x})$
+\form#12:$\beta =$
+\form#13:$\Delta(\tilde{x}, \bar{x})^\beta \times \zeta^{1 - \beta}$
+\form#14:$rand(t/2, 3t/2)$
+\form#15:$j$
+\form#16:$\rho \in [\rho_{lb}, \rho_{ub}]$
+\form#17:$|\bar{x}_j - \tilde{x}_j| + \max\{\rho, 0\} > 0.5$

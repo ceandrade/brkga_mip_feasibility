@@ -1,0 +1,4 @@
+<map id="ExecutionStopper::mustStop" name="ExecutionStopper::mustStop">
+<area shape="rect" id="node1" title="Indicates if we must stop." alt="" coords="5,5,196,32"/>
+<area shape="rect" id="node2" href="$classExecutionStopper.html#afd65f676b04c6cf60a8131a602de00fd" title="Get a reference for an instance." alt="" coords="244,5,428,32"/>
+</map>

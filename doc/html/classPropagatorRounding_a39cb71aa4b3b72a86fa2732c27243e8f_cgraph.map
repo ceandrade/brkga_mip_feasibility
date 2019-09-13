@@ -1,0 +1,30 @@
+<map id="PropagatorRounding::init" name="PropagatorRounding::init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,356,151,397"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1SparseVector.html#a65a89fc5001b4be184586687c47dabae" title=" " alt="" coords="211,5,375,47"/>
+<area shape="rect" id="node3" href="$classState.html#a01d956ebce3e90829081263f1930931d" title="copy some state inside the object" alt="" coords="246,71,339,98"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1SingletonHolder.html#aca270223d08f4bb0c32ec846d5470726" title=" " alt="" coords="204,123,381,164"/>
+<area shape="rect" id="node5" href="$classPropagationEngine.html#adeb0b1127aec4eb6fc553bc18f382cca" title=" " alt="" coords="221,188,364,229"/>
+<area shape="rect" id="node6" href="$namespacedominiqs.html#a71b58176e862de3ebebc7f59f8050976" title=" " alt="" coords="709,309,865,335"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1SparseVector.html#a36b4e53a0c2427acead332709eee584f" title=" " alt="" coords="199,422,387,449"/>
+<area shape="rect" id="node8" href="$classSimpleRounding.html#a5d9f8b30a5aa7721d0c4283a8c77c984" title=" " alt="" coords="221,473,365,499"/>
+<area shape="rect" id="node11" href="$classDomain.html#a5d39a517964ba61c8f38785b40c7a70e" title=" " alt="" coords="223,523,362,550"/>
+<area shape="rect" id="node12" href="$classPropagationEngine.html#a05ae12469b766fa20a84eb8835d81881" title=" " alt="" coords="469,205,612,247"/>
+<area shape="rect" id="node18" href="$classDomain.html#aa6ff46d9e5c8ff2e2026b175e4fdbd9b" title=" " alt="" coords="230,574,355,601"/>
+<area shape="rect" id="node20" href="$classPropagationEngine.html#afa13ed31d9b100f0c05514159b9244e7" title=" " alt="" coords="221,356,364,397"/>
+<area shape="rect" id="node27" href="$classdominiqs_1_1SparseVector.html#a65ec030c11cbb93ddc73bdaa933c2c8c" title=" " alt="" coords="211,625,375,667"/>
+<area shape="rect" id="node28" href="$classDomain.html#ae5740890a0d8846c225afe5eb929e9f4" title=" " alt="" coords="231,691,355,718"/>
+<area shape="rect" id="node9" href="$namespacedominiqs.html#a31df25a6f8f337a88a9b70faf3d145a5" title=" " alt="" coords="475,585,606,611"/>
+<area shape="rect" id="node10" href="$classSimpleRounding.html#a142394cae368fbaa860013a93d97b86a" title=" " alt="" coords="435,636,647,677"/>
+<area shape="rect" id="node13" href="$classPropagator.html#adfa4393da2b02072218d1b376ffe36f1" title=" " alt="" coords="695,258,879,285"/>
+<area shape="rect" id="node14" href="$classPropagator.html#af8605bacf0b0e566ecf9c4a91802d9e8" title=" " alt="" coords="707,157,867,183"/>
+<area shape="rect" id="node15" href="$classPropagator.html#a70bdb6a4c597263139d25915f5f53b31" title=" " alt="" coords="723,359,850,386"/>
+<area shape="rect" id="node16" href="$classPropagator.html#a233a9364f8ac2b4e8dc2daf4ced0eb8d" title=" " alt="" coords="715,410,858,437"/>
+<area shape="rect" id="node17" href="$classPropagator.html#ad28da39f45f4e248130bc76cd01d2931" title=" " alt="" coords="723,207,850,234"/>
+<area shape="rect" id="node19" href="$namespacedominiqs.html#a14b931c827fc55ba0f4a1f4d3548bbe1" title=" " alt="" coords="483,702,599,729"/>
+<area shape="rect" id="node21" href="$classPropagationEngine.html#a1c02d18861980bb0cdb753ec6a25837c" title=" " alt="" coords="469,453,612,495"/>
+<area shape="rect" id="node23" href="$classPropagationEngine.html#af4a3052a3fde914cc471c2a0bdfa99d6" title=" " alt="" coords="469,388,612,429"/>
+<area shape="rect" id="node24" href="$classPropagationEngine.html#a0d612db5e2d3c0bda9c9506378ec60ce" title=" " alt="" coords="469,323,612,364"/>
+<area shape="rect" id="node25" href="$classPropagationEngine.html#a036cc79b9e35036158f027643bb82d3b" title=" " alt="" coords="469,519,612,560"/>
+<area shape="rect" id="node22" href="$classPropagator.html#a4edb48dee243d35d4b8db184b74d8f5e" title=" " alt="" coords="723,461,850,487"/>
+<area shape="rect" id="node26" href="$namespacedominiqs.html#a004902c9b489f79ca1febf7ee7124f0a" title=" " alt="" coords="718,526,855,553"/>
+</map>

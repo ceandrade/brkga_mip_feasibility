@@ -1,0 +1,13 @@
+<map id="AdvisorI" name="AdvisorI">
+<area shape="rect" id="node1" title="Propagator Advisor interface." alt="" coords="875,5,1002,317"/>
+<area shape="rect" id="node2" href="$classCardinalityAdvisor.html" title=" " alt="" coords="5,380,155,501"/>
+<area shape="rect" id="node3" href="$classEquivAdvisor.html" title=" " alt="" coords="179,380,299,501"/>
+<area shape="rect" id="node4" href="$classImpliesAntecedentAdvisor.html" title=" " alt="" coords="323,380,519,501"/>
+<area shape="rect" id="node5" href="$classImpliesConsequentAdvisor.html" title=" " alt="" coords="543,373,745,509"/>
+<area shape="rect" id="node6" href="$classKnapsackAdvisor.html" title=" " alt="" coords="769,365,914,516"/>
+<area shape="rect" id="node7" href="$classLexLessEqualPropAdvisor.html" title=" " alt="" coords="938,365,1137,516"/>
+<area shape="rect" id="node8" href="$classNegativeLinearAdvisor.html" title=" " alt="" coords="1161,365,1337,516"/>
+<area shape="rect" id="node9" href="$classPositiveLinearAdvisor.html" title=" " alt="" coords="1361,365,1532,516"/>
+<area shape="rect" id="node10" href="$classVarLowerBoundPropAdvisor.html" title=" " alt="" coords="1556,365,1767,516"/>
+<area shape="rect" id="node11" href="$classVarUpperBoundPropAdvisor.html" title=" " alt="" coords="1791,365,2001,516"/>
+</map>

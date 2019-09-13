@@ -1,0 +1,4 @@
+<map id="ExecutionStopper::userSignalBreak" name="ExecutionStopper::userSignalBreak">
+<area shape="rect" id="node1" title="Function used to emit the STOP signal." alt="" coords="5,5,203,47"/>
+<area shape="rect" id="node2" href="$classExecutionStopper.html#afd65f676b04c6cf60a8131a602de00fd" title="Get a reference for an instance." alt="" coords="251,13,435,39"/>
+</map>

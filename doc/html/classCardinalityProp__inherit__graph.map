@@ -1,0 +1,4 @@
+<map id="CardinalityProp" name="CardinalityProp">
+<area shape="rect" id="node1" title="Propagator for the cardinality constraint lhs &lt;= e x &lt;= rhs, all x_j binary." alt="" coords="5,629,139,839"/>
+<area shape="rect" id="node2" href="$classPropagator.html" title="Propagator interface." alt="" coords="7,5,137,581"/>
+</map>

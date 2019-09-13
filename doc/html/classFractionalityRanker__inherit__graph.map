@@ -1,0 +1,4 @@
+<map id="FractionalityRanker" name="FractionalityRanker">
+<area shape="rect" id="node1" title="Rank variables in order of increasing fractionality always preferring binary variables to general int..." alt="" coords="5,277,180,487"/>
+<area shape="rect" id="node2" href="$classRanker.html" title="Ranker Base Class." alt="" coords="5,5,180,229"/>
+</map>

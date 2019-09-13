@@ -1,0 +1,45 @@
+<map id="dominiqs::lessThan" name="dominiqs::lessThan">
+<area shape="rect" id="node1" title=" " alt="" coords="837,676,975,703"/>
+<area shape="rect" id="node2" href="$classKnapsackFactory.html#ae9b070ffe1a6cbef0d2dff7a39fa62b5" title=" " alt="" coords="601,5,780,32"/>
+<area shape="rect" id="node3" href="$classSimpleRounding.html#aa895b6e9e4d47273d531ddd1f453dbf6" title=" " alt="" coords="611,56,770,83"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1GomorySeparator.html#a414da3e50d1fbad6685e74c9d269defd" title=" " alt="" coords="596,107,785,149"/>
+<area shape="rect" id="node8" href="$classLexLessEqualProp.html#a430252f66c702cdf2cf34e71d4ca1f49" title=" " alt="" coords="592,224,789,251"/>
+<area shape="rect" id="node15" href="$classNegativeLinearAdvisor.html#a8f86b6c97822d3408d2f3fecf75bf1e9" title=" " alt="" coords="613,275,769,317"/>
+<area shape="rect" id="node16" href="$classPositiveLinearAdvisor.html#a3adf747e581486a13d0f867fb9969b49" title=" " alt="" coords="615,341,766,382"/>
+<area shape="rect" id="node17" href="$classKnapsackAdvisor.html#a1fda83e756e629bc075c85bcc703b4da" title=" " alt="" coords="602,407,779,433"/>
+<area shape="rect" id="node18" href="$classdominiqs_1_1Model.html#ab1d125238811fdbb6847dbe11653ff6f" title=" " alt="" coords="604,458,777,499"/>
+<area shape="rect" id="node20" href="$namespacedominiqs.html#add6fef9a416c7ab35c9ba0cc8504f610" title=" " alt="" coords="623,524,759,551"/>
+<area shape="rect" id="node21" href="$classLinearProp.html#a162a62b2949ef5da598a58643a88c750" title=" " alt="" coords="363,600,523,627"/>
+<area shape="rect" id="node22" href="$classdominiqs_1_1FeasibilityPump.html#af6cd35c7ab7b01d9c59644702f2e9e49" title=" " alt="" coords="602,981,779,1022"/>
+<area shape="rect" id="node27" href="$classKnapsackProp.html#afe3a118566701c7f953bca608ad80bdf" title=" " alt="" coords="619,1097,762,1124"/>
+<area shape="rect" id="node28" href="$classLexLessEqualProp.html#a8cd782347aa5edc02fab809d9bd50a20" title=" " alt="" coords="342,735,543,761"/>
+<area shape="rect" id="node29" href="$classLinearProp.html#a2faa358a5eadb9b9d4d855f5d28f8591" title=" " alt="" coords="365,676,520,703"/>
+<area shape="rect" id="node30" href="$classVarUpperBoundProp.html#aaa967ba6c688d634666312394a98a1aa" title=" " alt="" coords="366,789,519,830"/>
+<area shape="rect" id="node31" href="$classKnapsackProp.html#a07c11f1b3c9100ad4e7e4637ec216951" title=" " alt="" coords="355,864,531,891"/>
+<area shape="rect" id="node32" href="$classdominiqs_1_1GomorySeparator.html#a376d0ac13f26b3a67440660c2ef4f336" title=" " alt="" coords="348,159,537,201"/>
+<area shape="rect" id="node33" href="$classdominiqs_1_1FeasibilityPump.html#ac3cce7bf39d1c37820eb755103a7c985" title=" " alt="" coords="354,1097,531,1138"/>
+<area shape="rect" id="node34" href="$classPropagationEngine.html#a036cc79b9e35036158f027643bb82d3b" title=" " alt="" coords="619,1149,762,1190"/>
+<area shape="rect" id="node37" href="$classPositiveLinearAdvisor.html#a63890aff346e1b669eeb28cd585f2bc7" title=" " alt="" coords="615,1214,766,1255"/>
+<area shape="rect" id="node38" href="$classKnapsackAdvisor.html#a86fc4ab6d456b1d4732b2f4d0a449ddc" title=" " alt="" coords="597,1280,784,1307"/>
+<area shape="rect" id="node39" href="$classDomain.html#ab645cfe5e14ccdb3374308e01a0c419e" title=" " alt="" coords="625,777,757,804"/>
+<area shape="rect" id="node40" href="$classNegativeLinearAdvisor.html#a4472ea4bb15dbb51acd615e2012e8927" title=" " alt="" coords="613,1331,769,1373"/>
+<area shape="rect" id="node41" href="$classLinearProp.html#aa90de99ece71ae0c4324681631aece7f" title=" " alt="" coords="607,625,774,652"/>
+<area shape="rect" id="node42" href="$classKnapsackProp.html#a163a3408097141a83e01ebe15f6df333" title=" " alt="" coords="597,929,785,956"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1GomorySeparator.html#a61dce290a399df0f5658d49f32ee76b9" title=" " alt="" coords="348,94,537,135"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1GomorySeparator.html#acff352cbc1d4b36a9d2d4db34bc67908" title=" " alt="" coords="104,29,293,70"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1GomorySeparator.html#a8b29df558feb926bb5f9228597784627" title=" " alt="" coords="104,94,293,135"/>
+<area shape="rect" id="node9" href="$classLexLessEqualProp.html#aa9de8328518bf9b44018c3fa0552e121" title=" " alt="" coords="347,290,538,331"/>
+<area shape="rect" id="node10" href="$classLexLessEqualProp.html#a49d7e664d8d413c6b1ae9019bba2f852" title=" " alt="" coords="351,225,534,266"/>
+<area shape="rect" id="node11" href="$classLexLessEqualPropAdvisor.html#af70ed22f02c9d182c001ba8c2903f3bb" title=" " alt="" coords="109,159,288,201"/>
+<area shape="rect" id="node12" href="$classLexLessEqualPropAdvisor.html#a794e6fee196f89d8afedd3ac51fda47b" title=" " alt="" coords="109,225,288,266"/>
+<area shape="rect" id="node13" href="$classLexLessEqualPropAdvisor.html#a5364aec2672b2b820f8ff55a373603b9" title=" " alt="" coords="109,290,288,331"/>
+<area shape="rect" id="node14" href="$classLexLessEqualPropAdvisor.html#adc62e90ce32de08264b4754a550e99ac" title=" " alt="" coords="109,355,288,397"/>
+<area shape="rect" id="node19" href="$classdominiqs_1_1Model.html#a9f82fbea296b7fc21326a9d4d1d24a69" title=" " alt="" coords="349,465,536,492"/>
+<area shape="rect" id="node23" href="$classdominiqs_1_1FeasibilityPump.html#a83afa4e9b97bfdfce17e57d3cba0bfe0" title=" " alt="" coords="354,1031,531,1073"/>
+<area shape="rect" id="node26" href="$classdominiqs_1_1FeasibilityPump.html#ab722f6e1ad8d967c529dd4a210f77e41" title=" " alt="" coords="354,966,531,1007"/>
+<area shape="rect" id="node24" href="$classdominiqs_1_1FeasibilityPump.html#a3749ee324bcb33383f455e4b46f95c07" title=" " alt="" coords="110,1031,287,1073"/>
+<area shape="rect" id="node25" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="5,1039,56,1065"/>
+<area shape="rect" id="node35" href="$classPropagationEngine.html#afa13ed31d9b100f0c05514159b9244e7" title=" " alt="" coords="371,1162,514,1203"/>
+<area shape="rect" id="node36" href="$classPropagatorRounding.html#a39cb71aa4b3b72a86fa2732c27243e8f" title=" " alt="" coords="126,1162,271,1203"/>
+<area shape="rect" id="node43" href="$classKnapsackProp.html#ac657ee86522b0b6eb50068ea40cdcb3f" title=" " alt="" coords="341,915,544,941"/>
+</map>

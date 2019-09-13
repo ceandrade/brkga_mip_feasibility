@@ -1,0 +1,36 @@
+<map id="FP2/propagator/logic_propagator.cpp" name="FP2/propagator/logic_propagator.cpp">
+<area shape="rect" id="node1" title="Propagators for logic constraints." alt="" coords="143,5,289,47"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,95,128,121"/>
+<area shape="rect" id="node3" title=" " alt="" coords="566,543,639,569"/>
+<area shape="rect" id="node4" href="$floats_8h.html" title="Floating Point Utilities." alt="" coords="137,468,229,495"/>
+<area shape="rect" id="node7" href="$logic__propagator_8h.html" title="Propagators for logic constraints." alt="" coords="1311,95,1443,121"/>
+<area shape="rect" id="node5" title=" " alt="" coords="357,543,416,569"/>
+<area shape="rect" id="node6" title=" " alt="" coords="144,543,221,569"/>
+<area shape="rect" id="node8" href="$propagator_8h.html" title="Constraint Propagator Interface." alt="" coords="1329,169,1426,196"/>
+<area shape="rect" id="node34" href="$advisors_8h.html" title="Advisors Interface." alt="" coords="1613,169,1696,196"/>
+<area shape="rect" id="node9" title=" " alt="" coords="1288,468,1347,495"/>
+<area shape="rect" id="node10" title=" " alt="" coords="1598,244,1637,271"/>
+<area shape="rect" id="node11" title=" " alt="" coords="1448,319,1496,345"/>
+<area shape="rect" id="node12" title=" " alt="" coords="1661,244,1720,271"/>
+<area shape="rect" id="node13" title=" " alt="" coords="1209,468,1263,495"/>
+<area shape="rect" id="node14" title=" " alt="" coords="1745,244,1805,271"/>
+<area shape="rect" id="node15" href="$singleton_8h.html" title="Singleton Pattern." alt="" coords="582,244,695,271"/>
+<area shape="rect" id="node16" href="$factory_8h.html" title="Factory Pattern." alt="" coords="1371,244,1471,271"/>
+<area shape="rect" id="node17" href="$maths_8h.html" title="Mathematical utilities Header." alt="" coords="765,393,862,420"/>
+<area shape="rect" id="node21" href="$asserter_8h.html" title="assert utilities" alt="" coords="1130,543,1211,569"/>
+<area shape="rect" id="node29" href="$domain_8h.html" title="Variables&#39; domains Source." alt="" coords="1092,244,1169,271"/>
+<area shape="rect" id="node33" href="$history_8h.html" title="State Managemente/Undo System Base Classes." alt="" coords="617,393,689,420"/>
+<area shape="rect" id="node18" title=" " alt="" coords="865,468,943,495"/>
+<area shape="rect" id="node19" title=" " alt="" coords="693,468,841,495"/>
+<area shape="rect" id="node20" title=" " alt="" coords="304,468,461,495"/>
+<area shape="rect" id="node23" href="$machine__utils_8h.html" title="Machine utilities." alt="" coords="968,468,1083,495"/>
+<area shape="rect" id="node28" href="$managed__object_8h.html" title="Heap Only Object with native support for smart pointers." alt="" coords="537,468,669,495"/>
+<area shape="rect" id="node22" title=" " alt="" coords="1131,617,1210,644"/>
+<area shape="rect" id="node24" title=" " alt="" coords="827,543,896,569"/>
+<area shape="rect" id="node25" title=" " alt="" coords="920,543,989,569"/>
+<area shape="rect" id="node26" title=" " alt="" coords="1014,543,1106,569"/>
+<area shape="rect" id="node27" title=" " alt="" coords="694,543,773,569"/>
+<area shape="rect" id="node30" href="$numarray_8h.html" title="Dense Vector for numerical data." alt="" coords="872,319,989,345"/>
+<area shape="rect" id="node32" title=" " alt="" coords="1013,319,1144,345"/>
+<area shape="rect" id="node31" title=" " alt="" coords="1083,393,1144,420"/>
+</map>

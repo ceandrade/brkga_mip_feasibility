@@ -15,6 +15,21 @@ in enumeration phases. Experimental results show that this approach is able to
 find feasible solutions for instances where the original feasibility pump or a
 commercial mixed integer programming solver often fail.
 
+License and Citing
+--------------------------------------------------------------------------------
+
+BRKGA for MIP feasibility uses a permissive BSD-like license and it can be used
+as it pleases you. And since this framework is also part of an academic effort,
+we kindly ask you to remember to cite the originating paper of this work.
+Indeed, Clause 4 estipulates that "all publications, softwares, or any other
+materials mentioning features or use of this software and/or the data used to
+test it must cite explicitly the following article":
+
+> C.E. Andrade, S. Ahmed, G.L. Nemhauser, Y. Shao. A hybrid primal heuristic
+> for finding feasible solutions to mixed integer programs. European Journal of
+> Operational Research, volume 263, issue 1, pages 62-71, 2017. DOI:
+> [10.1016/j.ejor.2017.05.003](http://dx.doi.org/10.1016/j.ejor.2017.05.003).
+
 
 Dependencies
 -------------------------------------------------------------------------------
@@ -208,3 +223,7 @@ This is an example:
 Yes, this is a very long line to be written. So, I do recommend to use the
 `run.sh` script to test small changes.
 
+API documentation
+-------------------------------------------------------------------------------
+
+Please, follow [this link]() or browse on `doc` folder.

@@ -1,0 +1,24 @@
+<map id="dominiqs::App::run" name="dominiqs::App::run">
+<area shape="rect" id="node1" title="application overall logic" alt="" coords="5,349,139,376"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1Logger.html#aedea1ebb3d9d88f140b2e837b85085e1" title=" " alt="" coords="483,20,645,46"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1App.html#a756972cc13f7e277299d74d79b857b03" title="all custom application logic is here MUST be implemented in derived classes" alt="" coords="230,121,373,148"/>
+<area shape="rect" id="node4" href="$namespacedominiqs.html#a73c61b894264c975f454fe863c1e93fd" title=" " alt="" coords="237,172,366,198"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1XMLConfig.html#a7ec0d824e01d3bbd03ca930412a773b5" title=" " alt="" coords="214,222,389,249"/>
+<area shape="rect" id="node7" href="$namespacedominiqs.html#af69cdced95580f69c9fea05f55cc66c1" title="Get the problem name from a LP/MPS file." alt="" coords="219,273,384,300"/>
+<area shape="rect" id="node10" href="$namespacedominiqs.html#aa21d8b3fd310d1c3102f22bc31545dda" title=" " alt="" coords="245,324,357,350"/>
+<area shape="rect" id="node11" href="$classdominiqs_1_1Logger.html#ae870d17bfd797153b11e00bd4756c59b" title=" " alt="" coords="214,374,389,401"/>
+<area shape="rect" id="node13" href="$classdominiqs_1_1Logger.html#a62f9397bfe045de1ca3b628b2b84965a" title=" " alt="" coords="221,70,382,97"/>
+<area shape="rect" id="node16" href="$classdominiqs_1_1App.html#a0678bf99e36680d794ed3ec89768edb7" title="read config params: to be implemented in derived classes" alt="" coords="212,425,391,452"/>
+<area shape="rect" id="node17" href="$classdominiqs_1_1XMLConfig.html#ad89cac83dc69b299b75d6ed47f7ea008" title=" " alt="" coords="215,476,388,502"/>
+<area shape="rect" id="node19" href="$classdominiqs_1_1Logger.html#a5c61e0da07e1ad0042a25fd708e402ec" title=" " alt="" coords="187,526,416,553"/>
+<area shape="rect" id="node20" href="$classdominiqs_1_1App.html#ae76c0b108eb11b2671a0284ad8613344" title="additional shutdown work to be implemented in derived classes (optional)" alt="" coords="216,577,387,604"/>
+<area shape="rect" id="node21" href="$classdominiqs_1_1App.html#ac6d1f8d966767508e0c9ca08d5d2235a" title="additional startup work to be implemented in derived classes (optional)" alt="" coords="224,628,379,654"/>
+<area shape="rect" id="node22" href="$namespacedominiqs.html#af431857fe8a841fc9366b2843d251d55" title=" " alt="" coords="211,678,391,705"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1XMLConfig.html#a96e51f966a27d06d0dbb19670f4022c0" title=" " alt="" coords="489,211,639,252"/>
+<area shape="rect" id="node8" href="$classdominiqs_1_1Path.html#a83532572a74e448ce05ee87e8c34bb87" title=" " alt="" coords="464,277,664,304"/>
+<area shape="rect" id="node9" href="$classdominiqs_1_1Path.html#af4eae4ab7a506dca0470b9effcb9439d" title=" " alt="" coords="712,277,877,304"/>
+<area shape="rect" id="node12" href="$namespacedominiqs.html#a1f9be8e46df917f3c25059b3921fc93f" title=" " alt="" coords="490,374,638,401"/>
+<area shape="rect" id="node14" href="$classdominiqs_1_1Path.html#a9e5ee89b574ce1c97d312f677465fab5" title=" " alt="" coords="489,70,639,97"/>
+<area shape="rect" id="node15" href="$classdominiqs_1_1Path.html#ab99b04d2f6e0d39cccc7e3626b91d278" title=" " alt="" coords="482,121,646,148"/>
+<area shape="rect" id="node18" href="$classdominiqs_1_1XMLConfig.html#a1724c8f3ff1632315effe727431b0a1f" title=" " alt="" coords="489,468,639,510"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="FeasibilityPump_Decoder::addCutsFromRoudings" name="FeasibilityPump_Decoder::addCutsFromRoudings">
+<area shape="rect" id="node1" title="Insert cuts in the LPs prohibiting the infeasible roundings from previous iterations." alt="" coords="5,39,179,80"/>
+<area shape="rect" id="node2" href="$classBRKGA__ALG_1_1Population.html#a9f6173237da15bf8f2d12977c1bcd906" title="Returns i&#45;th best chromosome." alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node3" href="$classBRKGA__ALG_1_1Population.html#a524dfaab599a350fcecb8e02d4d99439" title="Return the size of the population." alt="" coords="227,71,400,112"/>
+</map>

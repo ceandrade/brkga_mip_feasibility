@@ -1,0 +1,14 @@
+<map id="dominiqs::XMLConfig::get" name="dominiqs::XMLConfig::get">
+<area shape="rect" id="node1" title=" " alt="" coords="453,293,628,320"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="53,89,103,116"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1App.html#a2dc262ea8b3943c30b26a248f49f8487" title="parse command line arguments and config files" alt="" coords="215,46,389,87"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1GomorySeparator.html#a2215f81a68753c65b329c4d715c78dc9" title=" " alt="" coords="207,111,397,153"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1FeasibilityPump.html#a9db8b56d417ddf367d23a8e2a457765d" title=" " alt="" coords="213,177,391,218"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1CPXApp.html#a8afb84c0daf071eb2420aa343a230272" title="read config params: to be implemented in derived classes to be extended in derived classes (optional)" alt="" coords="199,243,405,269"/>
+<area shape="rect" id="node7" href="$classSimpleRounding.html#a9148cdb10c01684ca21e77d80014630b" title=" " alt="" coords="206,293,398,320"/>
+<area shape="rect" id="node8" href="$classPropagatorRounding.html#a351604260a985f7e4295d57599322991" title=" " alt="" coords="5,311,151,353"/>
+<area shape="rect" id="node9" href="$classFractionalityRanker.html#aa5d558fdb48e857ec6527a5be046c4eb" title=" " alt="" coords="233,395,371,437"/>
+<area shape="rect" id="node10" href="$classRandomRanker.html#a40c6c9c22729d1954d44df29704477de" title=" " alt="" coords="208,461,396,488"/>
+<area shape="rect" id="node11" href="$classdominiqs_1_1CutPool.html#a021d2f52725b1aef80d963fe80c85bf3" title=" " alt="" coords="233,513,371,554"/>
+<area shape="rect" id="node12" href="$classdominiqs_1_1App.html#a6587532988879a61a8a4ba1fa856366c" title="application overall logic" alt="" coords="235,579,369,605"/>
+</map>

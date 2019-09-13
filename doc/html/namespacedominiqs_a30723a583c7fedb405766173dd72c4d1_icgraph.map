@@ -1,0 +1,4 @@
+<map id="dominiqs::shellSort" name="dominiqs::shellSort">
+<area shape="rect" id="node1" title="Sort a given vector in place using a modified Shell Sort algorithm O(n^(3/2))" alt="" coords="188,5,323,32"/>
+<area shape="rect" id="node2" href="$namespacedominiqs.html#aa65d38a792fb6307680d178310225d44" title="Syntactic sugar for using operator&lt; as default comparison operator." alt="" coords="5,5,140,32"/>
+</map>

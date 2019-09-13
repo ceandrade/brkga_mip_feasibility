@@ -1,0 +1,18 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,75,56,102"/>
+<area shape="rect" id="node2" href="$classce__andrade_1_1Clusterator.html#a75681e242e70864c60b3d7f70ce1d6d9" title=" " alt="" coords="104,5,269,47"/>
+<area shape="rect" id="node4" href="$classce__andrade_1_1Clusterator.html#a5c9c6eb84b46adddf8a13d9ac85755e9" title="Returns a binary tree describing the relationship between variables or constraints." alt="" coords="104,100,269,141"/>
+<area shape="rect" id="node3" href="$classce__andrade_1_1PlainRaggedMatrix.html#ac74408a14641ccc31bde4ce2445787b1" title=" " alt="" coords="577,17,789,59"/>
+<area shape="rect" id="node5" href="$classce__andrade_1_1Clusterator.html#ad78e8ff8c58c01e5a236d97dbfb628ad" title="Compute the L1 norm distance, aka, Manhattan distance. The results are written on Clusterator::distan..." alt="" coords="341,35,506,76"/>
+<area shape="rect" id="node6" href="$classce__andrade_1_1Clusterator.html#a50d53639ffbd2e0a0f287a8f6499da5d" title="Compute the L2 norm distance, aka, Euclidean distance. The results are written on Clusterator::distan..." alt="" coords="341,100,506,141"/>
+<area shape="rect" id="node7" href="$cluster_8c.html#a2d2830009c4d6b49edd527bc1717d95b" title=" " alt="" coords="381,166,465,193"/>
+<area shape="rect" id="node16" href="$classce__andrade_1_1PlainRaggedMatrix.html#a855d812131c17b9bf8c59bec2af002a5" title="Return a pointer to the raw data stored. Note that we may change the values stored there but not the ..." alt="" coords="317,217,529,259"/>
+<area shape="rect" id="node8" href="$cluster_8c.html#a99a037faf69930e830bed739edecc017" title=" " alt="" coords="629,83,737,110"/>
+<area shape="rect" id="node9" href="$cluster_8c.html#ad54ed964de885885f16b7110c556102f" title=" " alt="" coords="644,134,723,161"/>
+<area shape="rect" id="node11" href="$cluster_8c.html#a18da61f90a23527124b1872c2a0df874" title=" " alt="" coords="644,235,723,262"/>
+<area shape="rect" id="node13" href="$cluster_8c.html#ae09b5534c0a762b9084758535012f4f0" title=" " alt="" coords="642,185,725,211"/>
+<area shape="rect" id="node14" href="$cluster_8c.html#a465e93cf881486d0ef28073fe7423579" title=" " alt="" coords="644,286,723,313"/>
+<area shape="rect" id="node10" href="$cluster_8c.html#ac5aac1cfd56a98fc1ec24937c175fc0f" title=" " alt="" coords="837,185,960,211"/>
+<area shape="rect" id="node12" href="$cluster_8c.html#ab51d3ac8a38f5bf73f22fe1623ca0846" title=" " alt="" coords="843,235,955,262"/>
+<area shape="rect" id="node15" href="$cluster_8c.html#a59607db815eab5036998020e17ff5ec4" title=" " alt="" coords="847,286,951,313"/>
+</map>

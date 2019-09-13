@@ -1,0 +1,16 @@
+<map id="ExecutionStopper::instance" name="ExecutionStopper::instance">
+<area shape="rect" id="node1" title="Get a reference for an instance." alt="" coords="859,198,1043,225"/>
+<area shape="rect" id="node2" href="$classExecutionStopper.html#a45f199081efbac7e3adb013263e671e7" title="Returns the elapsed time." alt="" coords="621,30,803,57"/>
+<area shape="rect" id="node3" href="$classExecutionStopper.html#af740215ea90663f33b300f89d43e8bc9" title=" " alt="" coords="389,17,541,43"/>
+<area shape="rect" id="node5" href="$classExecutionStopper.html#abd97b004e0e980ce32ea01d1b5976a71" title="Indicates if we must stop." alt="" coords="617,198,807,225"/>
+<area shape="rect" id="node11" href="$classExecutionStopper.html#a94f97fdf093cb62a66162f8fcae973c9" title="Resume the timer." alt="" coords="104,351,317,378"/>
+<area shape="rect" id="node12" href="$classExecutionStopper.html#aff68680625e5147450652616fb49357f" title="Start the timer." alt="" coords="115,402,307,429"/>
+<area shape="rect" id="node13" href="$classExecutionStopper.html#a091727c31920c923da3498ed8705be6b" title="Stop the timer." alt="" coords="115,453,307,479"/>
+<area shape="rect" id="node14" href="$classExecutionStopper.html#a56cbafd2751c9dec2ea65a0dbfd771a7" title="Function used to emit the STOP signal." alt="" coords="613,132,811,173"/>
+<area shape="rect" id="node4" href="$fix__and__local__search__random_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,322,56,349"/>
+<area shape="rect" id="node6" href="$feasibility__pump__decoder_8cpp.html#a55f23d2b559ca08d2b3e5dbb4db25a60" title=" " alt="" coords="365,118,565,145"/>
+<area shape="rect" id="node7" href="$feasibility__pump__decoder_8cpp.html#a034b1057705f28c8dc0097c837754691" title=" " alt="" coords="377,169,553,195"/>
+<area shape="rect" id="node8" href="$classFeasibilityPump__Decoder.html#ae157d54f2f8e69eb0c2f486ff5908308" title="Perform iterated local search using fixing from the chromosomes." alt="" coords="379,220,552,261"/>
+<area shape="rect" id="node9" href="$classFeasibilityPump__Decoder.html#acc5f84264f2719f2d82e54435004d2f5" title="This is the objective feasibility pump as proposed by Achterberg and Berthold (2007)...." alt="" coords="377,285,553,327"/>
+<area shape="rect" id="node10" href="$classFeasibilityPump__Decoder.html#a4a126211e6ec7c808f0ba45904ac11a8" title="Applies the feasibility pump using the given relaxation as start point." alt="" coords="124,285,297,327"/>
+</map>

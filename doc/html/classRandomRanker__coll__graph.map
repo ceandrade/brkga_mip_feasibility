@@ -1,0 +1,17 @@
+<map id="RandomRanker" name="RandomRanker">
+<area shape="rect" id="node1" title="Rank variables randomly." alt="" coords="277,3023,452,3144"/>
+<area shape="rect" id="node2" href="$classRanker.html" title="Ranker Base Class." alt="" coords="277,2795,452,2960"/>
+<area shape="rect" id="node3" href="$classDomain.html" title=" " alt="" coords="300,2185,444,2703"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1numarray.html" title=" " alt="" coords="474,1151,628,2108"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1numarray.html" title="Vector replacement for numerical data." alt="" coords="347,160,518,1088"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1numarray.html" title=" " alt="" coords="652,1151,807,2108"/>
+<area shape="rect" id="node8" href="$classdominiqs_1_1numarray.html" title=" " alt="" coords="295,1151,450,2108"/>
+<area shape="rect" id="node6" title=" " alt="" coords="384,13,422,90"/>
+<area shape="rect" id="node12" title="STL class." alt="" coords="88,585,203,663"/>
+<area shape="rect" id="node9" title=" " alt="" coords="106,1591,270,1668"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="227,585,307,663"/>
+<area shape="rect" id="node11" title="STL class." alt="" coords="204,5,330,97"/>
+<area shape="rect" id="node13" title=" " alt="" coords="150,2405,270,2483"/>
+<area shape="rect" id="node14" href="$classdominiqs_1_1STLRandGen.html" title=" " alt="" coords="476,2831,640,2923"/>
+<area shape="rect" id="node15" href="$classdominiqs_1_1UnitRandGen.html" title=" " alt="" coords="476,2369,640,2519"/>
+</map>

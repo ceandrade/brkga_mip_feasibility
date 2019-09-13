@@ -1,0 +1,8 @@
+<map id="FeasibilityPump_Decoder::analyzeAndFixVars" name="FeasibilityPump_Decoder::analyzeAndFixVars">
+<area shape="rect" id="node1" title="Builds a histogram of the alleles of genes from the best chromosomes and try to fix variables using t..." alt="" coords="5,104,179,145"/>
+<area shape="rect" id="node2" href="$classFeasibilityPump__Decoder.html#acd8c368aeada09ff966a91588354adc0" title="This is a linear function to fix variables. In the worst case, when we have several failures on fixin..." alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node3" href="$classBRKGA__ALG_1_1Population.html#a9f6173237da15bf8f2d12977c1bcd906" title="Returns i&#45;th best chromosome." alt="" coords="227,71,400,112"/>
+<area shape="rect" id="node4" href="$classBRKGA__ALG_1_1Population.html#a62e896a395fcb0d1341abf862f2ffc5e" title="Return the size of each chromosome." alt="" coords="227,136,400,177"/>
+<area shape="rect" id="node5" href="$cluster_8c.html#a30742d2987550bcf16274c9e1f74f433" title=" " alt="" coords="291,202,335,229"/>
+<area shape="rect" id="node6" href="$cluster_8c.html#a5ca4cf7d126d1b70e95de936dbf5079d" title=" " alt="" coords="448,202,521,229"/>
+</map>

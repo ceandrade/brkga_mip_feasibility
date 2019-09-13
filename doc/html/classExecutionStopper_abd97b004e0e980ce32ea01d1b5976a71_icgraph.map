@@ -1,0 +1,9 @@
+<map id="ExecutionStopper::mustStop" name="ExecutionStopper::mustStop">
+<area shape="rect" id="node1" title="Indicates if we must stop." alt="" coords="573,107,764,133"/>
+<area shape="rect" id="node2" href="$feasibility__pump__decoder_8cpp.html#a55f23d2b559ca08d2b3e5dbb4db25a60" title=" " alt="" coords="325,5,525,32"/>
+<area shape="rect" id="node3" href="$feasibility__pump__decoder_8cpp.html#a034b1057705f28c8dc0097c837754691" title=" " alt="" coords="337,56,513,83"/>
+<area shape="rect" id="node4" href="$fix__and__local__search__random_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,136,56,163"/>
+<area shape="rect" id="node5" href="$classFeasibilityPump__Decoder.html#acc5f84264f2719f2d82e54435004d2f5" title="This is the objective feasibility pump as proposed by Achterberg and Berthold (2007)...." alt="" coords="337,158,513,199"/>
+<area shape="rect" id="node7" href="$classFeasibilityPump__Decoder.html#ae157d54f2f8e69eb0c2f486ff5908308" title="Perform iterated local search using fixing from the chromosomes." alt="" coords="339,223,512,265"/>
+<area shape="rect" id="node6" href="$classFeasibilityPump__Decoder.html#a4a126211e6ec7c808f0ba45904ac11a8" title="Applies the feasibility pump using the given relaxation as start point." alt="" coords="104,158,277,199"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="ce_andrade::PlainRaggedMatrix::resize" name="ce_andrade::PlainRaggedMatrix::resize">
+<area shape="rect" id="node1" title=" " alt="" coords="607,97,819,139"/>
+<area shape="rect" id="node2" href="$classce__andrade_1_1Clusterator.html#a75681e242e70864c60b3d7f70ce1d6d9" title=" " alt="" coords="104,5,269,47"/>
+<area shape="rect" id="node4" href="$classce__andrade_1_1Clusterator.html#ad78e8ff8c58c01e5a236d97dbfb628ad" title="Compute the L1 norm distance, aka, Manhattan distance. The results are written on Clusterator::distan..." alt="" coords="355,64,521,105"/>
+<area shape="rect" id="node6" href="$classce__andrade_1_1Clusterator.html#a50d53639ffbd2e0a0f287a8f6499da5d" title="Compute the L2 norm distance, aka, Euclidean distance. The results are written on Clusterator::distan..." alt="" coords="355,129,521,171"/>
+<area shape="rect" id="node7" href="$classce__andrade_1_1PlainRaggedMatrix.html#af9a205ffa91cdc642410edacc96d05d8" title="Build constructor." alt="" coords="317,195,559,236"/>
+<area shape="rect" id="node3" href="$test__clustering_8cpp.html#a5ad27ca95fff945a0b8229e5f97c09fb" title=" " alt="" coords="5,46,56,73"/>
+<area shape="rect" id="node5" href="$classce__andrade_1_1Clusterator.html#a5c9c6eb84b46adddf8a13d9ac85755e9" title="Returns a binary tree describing the relationship between variables or constraints." alt="" coords="104,71,269,112"/>
+</map>

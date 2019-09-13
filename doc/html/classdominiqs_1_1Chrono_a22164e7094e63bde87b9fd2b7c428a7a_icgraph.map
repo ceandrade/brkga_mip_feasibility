@@ -1,0 +1,10 @@
+<map id="dominiqs::Chrono::getCPUTotal" name="dominiqs::Chrono::getCPUTotal">
+<area shape="rect" id="node1" title=" " alt="" coords="711,78,921,105"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1Chrono.html#abd3da761770a1c37139c35fd55659de2" title=" " alt="" coords="480,78,663,105"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1CpxPresolver.html#a1b9945032f315740c4c2b9f78a2d1a34" title=" " alt="" coords="256,5,419,47"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1GomorySeparator.html#a6b40cc172e8bec3432267cec037c112b" title=" " alt="" coords="243,71,432,112"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1FeasibilityPump.html#a3749ee324bcb33383f455e4b46f95c07" title=" " alt="" coords="249,136,426,177"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1CPXApp.html#ac192eafe5df558b4ba9c5a2c50d2413e" title="additional startup work create env / lp objects presolve to be extended in derived classes (optional)" alt="" coords="9,13,191,39"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1GomorySeparator.html#a8978bc4fe7c80a0bf96ac906a7920443" title=" " alt="" coords="5,71,195,112"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="75,143,125,170"/>
+</map>

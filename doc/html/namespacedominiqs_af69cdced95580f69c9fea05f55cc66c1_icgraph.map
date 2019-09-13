@@ -1,0 +1,6 @@
+<map id="dominiqs::getProbName" name="dominiqs::getProbName">
+<area shape="rect" id="node1" title="Get the problem name from a LP/MPS file." alt="" coords="260,56,425,83"/>
+<area shape="rect" id="node2" href="$namespacedominiqs.html#ac6137b4194e8ced8161f8363bd4b8474" title=" " alt="" coords="26,5,191,32"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1CPXApp.html#a8afb84c0daf071eb2420aa343a230272" title="read config params: to be implemented in derived classes to be extended in derived classes (optional)" alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1App.html#a6587532988879a61a8a4ba1fa856366c" title="application overall logic" alt="" coords="42,107,175,133"/>
+</map>

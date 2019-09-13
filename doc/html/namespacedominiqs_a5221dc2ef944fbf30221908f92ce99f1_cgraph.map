@@ -1,0 +1,4 @@
+<map id="dominiqs::shellSort" name="dominiqs::shellSort">
+<area shape="rect" id="node1" title="Syntactic sugar for std::vectors." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="node2" href="$namespacedominiqs.html#a30723a583c7fedb405766173dd72c4d1" title="Sort a given vector in place using a modified Shell Sort algorithm O(n^(3/2))" alt="" coords="188,5,323,32"/>
+</map>

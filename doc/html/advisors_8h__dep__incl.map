@@ -1,0 +1,14 @@
+<map id="FP2/propagator/advisors.h" name="FP2/propagator/advisors.h">
+<area shape="rect" id="node1" title="Advisors Interface." alt="" coords="247,5,426,32"/>
+<area shape="rect" id="node2" href="$linear__propagator_8cpp.html" title="Linear propagators." alt="" coords="5,80,156,121"/>
+<area shape="rect" id="node3" href="$logic__propagator_8h.html" title="Propagators for logic constraints." alt="" coords="180,80,325,121"/>
+<area shape="rect" id="node5" href="$prop__engine_8h.html" title="Constraint Propagation Engine." alt="" coords="349,80,495,121"/>
+<area shape="rect" id="node12" href="$varbound__propagator_8cpp.html" title="Propagators for variable bound constraints." alt="" coords="519,80,693,121"/>
+<area shape="rect" id="node4" href="$logic__propagator_8cpp.html" title="Propagators for logic constraints." alt="" coords="153,169,299,211"/>
+<area shape="rect" id="node6" href="$transformers_8h.html" title="Solution Transformers (a.k.a. rounders) Header." alt="" coords="323,177,521,203"/>
+<area shape="rect" id="node11" href="$prop__engine_8cpp.html" title=" " alt="" coords="545,169,691,211"/>
+<area shape="rect" id="node7" href="$feasibility__pump__decoder_8cpp.html" title=" " alt="" coords="25,259,169,300"/>
+<area shape="rect" id="node8" href="$rounding__functions_8cpp.html" title=" " alt="" coords="193,266,411,293"/>
+<area shape="rect" id="node9" href="$transformers_8cpp.html" title="Solution Transformers (a.k.a. rounders) Source." alt="" coords="436,266,648,293"/>
+<area shape="rect" id="node10" href="$test__fp2__propagator_8cpp.html" title=" " alt="" coords="672,266,839,293"/>
+</map>

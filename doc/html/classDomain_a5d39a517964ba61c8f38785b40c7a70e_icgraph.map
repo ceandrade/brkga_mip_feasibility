@@ -1,0 +1,22 @@
+<map id="Domain::isVarFixed" name="Domain::isVarFixed">
+<area shape="rect" id="node1" title=" " alt="" coords="955,246,1093,273"/>
+<area shape="rect" id="node2" href="$classPropagatorRounding.html#aeff6a882877c71d5aec0bb215ba129dd" title=" " alt="" coords="732,12,877,53"/>
+<area shape="rect" id="node3" href="$classLexLessEqualProp.html#aebf74bb0f2a0b1967d191fee03539c62" title=" " alt="" coords="703,78,907,105"/>
+<area shape="rect" id="node11" href="$classImpliesProp.html#a5266765a0990c9930bebe72b8eebb13d" title=" " alt="" coords="719,129,890,155"/>
+<area shape="rect" id="node12" href="$classPropagatorRounding.html#a39cb71aa4b3b72a86fa2732c27243e8f" title=" " alt="" coords="732,180,877,221"/>
+<area shape="rect" id="node13" href="$classLinearProp.html#a2faa358a5eadb9b9d4d855f5d28f8591" title=" " alt="" coords="727,246,882,273"/>
+<area shape="rect" id="node14" href="$classEquivProp.html#a1ac142b4eb7725d9ed2e53ef4a91412d" title=" " alt="" coords="729,297,880,323"/>
+<area shape="rect" id="node15" href="$classCardinalityProp.html#a32f864cbf0fec37fc625a5d7c2e6a396" title=" " alt="" coords="715,347,895,374"/>
+<area shape="rect" id="node16" href="$classKnapsackProp.html#a07c11f1b3c9100ad4e7e4637ec216951" title=" " alt="" coords="717,398,893,425"/>
+<area shape="rect" id="node17" href="$classEquivProp.html#a0d6b40c7f47e372346e90be59ea476d3" title=" " alt="" coords="723,449,886,475"/>
+<area shape="rect" id="node4" href="$classLexLessEqualProp.html#aa9de8328518bf9b44018c3fa0552e121" title=" " alt="" coords="463,39,654,80"/>
+<area shape="rect" id="node5" href="$classLexLessEqualProp.html#a2bf8da21e9ac047bdd37b7564bd23e19" title=" " alt="" coords="463,104,655,145"/>
+<area shape="rect" id="node6" href="$classLexLessEqualProp.html#a49d7e664d8d413c6b1ae9019bba2f852" title=" " alt="" coords="232,104,415,145"/>
+<area shape="rect" id="node7" href="$classLexLessEqualPropAdvisor.html#a794e6fee196f89d8afedd3ac51fda47b" title=" " alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node8" href="$classLexLessEqualPropAdvisor.html#af70ed22f02c9d182c001ba8c2903f3bb" title=" " alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node9" href="$classLexLessEqualPropAdvisor.html#a5364aec2672b2b820f8ff55a373603b9" title=" " alt="" coords="5,136,184,177"/>
+<area shape="rect" id="node10" href="$classLexLessEqualPropAdvisor.html#adc62e90ce32de08264b4754a550e99ac" title=" " alt="" coords="5,201,184,243"/>
+<area shape="rect" id="node18" href="$classEquivAdvisor.html#a060aa513a1ddd56ca9292d8f0f78a7f5" title=" " alt="" coords="483,398,635,425"/>
+<area shape="rect" id="node19" href="$classEquivAdvisor.html#a81ec7ed5533f59bdc80350f097bc0b07" title=" " alt="" coords="474,449,643,475"/>
+<area shape="rect" id="node20" href="$classEquivProp.html#a8eb41022ce48f54fb8a85fc20e401ce1" title=" " alt="" coords="483,499,635,526"/>
+</map>

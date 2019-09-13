@@ -1,0 +1,13 @@
+<map id="dominiqs::CPXApp::startup" name="dominiqs::CPXApp::startup">
+<area shape="rect" id="node1" title="additional startup work create env / lp objects presolve to be extended in derived classes (optional)" alt="" coords="5,89,188,116"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1CpxPresolver.html#a1b9945032f315740c4c2b9f78a2d1a34" title=" " alt="" coords="236,82,399,123"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1Chrono.html#a9f9d488886f9539df9bb964e7f47b356" title=" " alt="" coords="459,9,617,36"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1Chrono.html#abd3da761770a1c37139c35fd55659de2" title=" " alt="" coords="447,115,629,141"/>
+<area shape="rect" id="node9" href="$namespacedominiqs.html#a143a391593d081fa7108c43fad03f7ab" title=" " alt="" coords="467,195,609,221"/>
+<area shape="rect" id="node11" href="$classdominiqs_1_1Chrono.html#af3f166a851095bcbcf102435d1b7ae97" title=" " alt="" coords="458,60,618,87"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1Chrono.html#a3cdff83d68a45c7120338e3468787f99" title=" " alt="" coords="689,56,877,83"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1Chrono.html#ab3b7f63e343dd42263ce2cfde8415595" title=" " alt="" coords="688,5,877,32"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1Chrono.html#a22164e7094e63bde87b9fd2b7c428a7a" title=" " alt="" coords="677,173,888,200"/>
+<area shape="rect" id="node8" href="$classdominiqs_1_1Chrono.html#a7f9c692b92a8487013ba59ead5b41535" title=" " alt="" coords="693,107,872,149"/>
+<area shape="rect" id="node10" href="$namespacedominiqs.html#a2f451beecc64baee1c6641d9bd83a694" title=" " alt="" coords="709,224,856,251"/>
+</map>

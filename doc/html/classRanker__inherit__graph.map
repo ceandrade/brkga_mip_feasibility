@@ -1,0 +1,6 @@
+<map id="Ranker" name="Ranker">
+<area shape="rect" id="node1" title="Ranker Base Class." alt="" coords="185,5,360,229"/>
+<area shape="rect" id="node2" href="$classFractionalityRanker.html" title="Rank variables in order of increasing fractionality always preferring binary variables to general int..." alt="" coords="5,277,180,487"/>
+<area shape="rect" id="node3" href="$classLeftToRightRanker.html" title="Rank variables from left to right." alt="" coords="205,336,341,428"/>
+<area shape="rect" id="node4" href="$classRandomRanker.html" title="Rank variables randomly." alt="" coords="365,307,540,457"/>
+</map>

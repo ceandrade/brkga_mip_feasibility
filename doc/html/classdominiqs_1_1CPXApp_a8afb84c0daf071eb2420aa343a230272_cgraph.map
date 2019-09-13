@@ -1,0 +1,9 @@
+<map id="dominiqs::CPXApp::readConfig" name="dominiqs::CPXApp::readConfig">
+<area shape="rect" id="node1" title="read config params: to be implemented in derived classes to be extended in derived classes (optional)" alt="" coords="5,56,212,83"/>
+<area shape="rect" id="node2" href="$namespacedominiqs.html#a73c61b894264c975f454fe863c1e93fd" title=" " alt="" coords="283,5,412,32"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1XMLConfig.html#a7ec0d824e01d3bbd03ca930412a773b5" title=" " alt="" coords="260,56,435,83"/>
+<area shape="rect" id="node5" href="$namespacedominiqs.html#af69cdced95580f69c9fea05f55cc66c1" title="Get the problem name from a LP/MPS file." alt="" coords="265,108,430,135"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1XMLConfig.html#a96e51f966a27d06d0dbb19670f4022c0" title=" " alt="" coords="508,46,657,87"/>
+<area shape="rect" id="node6" href="$classdominiqs_1_1Path.html#a83532572a74e448ce05ee87e8c34bb87" title=" " alt="" coords="483,112,683,139"/>
+<area shape="rect" id="node7" href="$classdominiqs_1_1Path.html#af4eae4ab7a506dca0470b9effcb9439d" title=" " alt="" coords="731,112,896,139"/>
+</map>

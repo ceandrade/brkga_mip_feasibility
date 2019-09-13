@@ -1,0 +1,5 @@
+<map id="ExecutionStopper::init" name="ExecutionStopper::init">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,157,32"/>
+<area shape="rect" id="node2" href="$classExecutionStopper.html#afd65f676b04c6cf60a8131a602de00fd" title="Get a reference for an instance." alt="" coords="451,5,635,32"/>
+<area shape="rect" id="node3" href="$classExecutionStopper.html#a56cbafd2751c9dec2ea65a0dbfd771a7" title="Function used to emit the STOP signal." alt="" coords="205,27,403,69"/>
+</map>

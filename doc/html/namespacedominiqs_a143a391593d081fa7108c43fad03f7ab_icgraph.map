@@ -1,0 +1,5 @@
+<map id="dominiqs::branchCB" name="dominiqs::branchCB">
+<area shape="rect" id="node1" title=" " alt="" coords="447,13,589,39"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1CpxPresolver.html#a1b9945032f315740c4c2b9f78a2d1a34" title=" " alt="" coords="236,5,399,47"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1CPXApp.html#ac192eafe5df558b4ba9c5a2c50d2413e" title="additional startup work create env / lp objects presolve to be extended in derived classes (optional)" alt="" coords="5,13,188,39"/>
+</map>

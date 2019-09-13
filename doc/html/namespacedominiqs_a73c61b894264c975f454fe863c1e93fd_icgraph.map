@@ -1,0 +1,12 @@
+<map id="dominiqs::gConfig" name="dominiqs::gConfig">
+<area shape="rect" id="node1" title=" " alt="" coords="453,226,583,253"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title=" " alt="" coords="53,55,103,82"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1App.html#a2dc262ea8b3943c30b26a248f49f8487" title="parse command line arguments and config files" alt="" coords="215,44,389,85"/>
+<area shape="rect" id="node4" href="$classdominiqs_1_1FeasibilityPump.html#a9db8b56d417ddf367d23a8e2a457765d" title=" " alt="" coords="213,109,391,151"/>
+<area shape="rect" id="node5" href="$classdominiqs_1_1CPXApp.html#a8afb84c0daf071eb2420aa343a230272" title="read config params: to be implemented in derived classes to be extended in derived classes (optional)" alt="" coords="199,175,405,202"/>
+<area shape="rect" id="node6" href="$classSimpleRounding.html#a9148cdb10c01684ca21e77d80014630b" title=" " alt="" coords="206,226,398,253"/>
+<area shape="rect" id="node7" href="$classPropagatorRounding.html#a351604260a985f7e4295d57599322991" title=" " alt="" coords="5,244,151,285"/>
+<area shape="rect" id="node8" href="$classFractionalityRanker.html#aa5d558fdb48e857ec6527a5be046c4eb" title=" " alt="" coords="233,328,371,369"/>
+<area shape="rect" id="node9" href="$classRandomRanker.html#a40c6c9c22729d1954d44df29704477de" title=" " alt="" coords="208,394,396,421"/>
+<area shape="rect" id="node10" href="$classdominiqs_1_1App.html#a6587532988879a61a8a4ba1fa856366c" title="application overall logic" alt="" coords="235,445,369,471"/>
+</map>

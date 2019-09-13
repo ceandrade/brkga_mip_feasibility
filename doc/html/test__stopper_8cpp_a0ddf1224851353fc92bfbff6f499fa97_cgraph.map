@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="node1" title=" " alt="" coords="5,63,56,90"/>
+<area shape="rect" id="node2" href="$classExecutionStopper.html#af740215ea90663f33b300f89d43e8bc9" title=" " alt="" coords="104,34,256,60"/>
+<area shape="rect" id="node5" href="$classExecutionStopper.html#abd97b004e0e980ce32ea01d1b5976a71" title="Indicates if we must stop." alt="" coords="307,92,498,119"/>
+<area shape="rect" id="node3" href="$classExecutionStopper.html#afd65f676b04c6cf60a8131a602de00fd" title="Get a reference for an instance." alt="" coords="549,34,733,60"/>
+<area shape="rect" id="node4" href="$classExecutionStopper.html#a56cbafd2751c9dec2ea65a0dbfd771a7" title="Function used to emit the STOP signal." alt="" coords="304,26,501,68"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="BRKGA_ALG::Population::getN" name="BRKGA_ALG::Population::getN">
+<area shape="rect" id="node1" title="Return the size of each chromosome." alt="" coords="227,5,400,47"/>
+<area shape="rect" id="node2" href="$classFeasibilityPump__Decoder.html#a6341fb645a8059c7bb62d0ae136e6f18" title="Builds a histogram of the alleles of genes from the best chromosomes and try to fix variables using t..." alt="" coords="5,5,179,47"/>
+</map>

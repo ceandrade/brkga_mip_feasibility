@@ -1,0 +1,13 @@
+<map id="dominiqs::CPXApp" name="dominiqs::CPXApp">
+<area shape="rect" id="node1" title="Provides a basic Cplex commmand&#45;line application It adds to the basic App the following Cplex&#45;related..." alt="" coords="5,985,139,1209"/>
+<area shape="rect" id="node2" href="$classdominiqs_1_1App.html" title="Provides a basic commmand&#45;line application logic." alt="" coords="197,697,363,936"/>
+<area shape="rect" id="node3" href="$classdominiqs_1_1ArgsParser.html" title=" " alt="" coords="205,499,355,635"/>
+<area shape="rect" id="node4" title="STL class." alt="" coords="207,160,287,237"/>
+<area shape="rect" id="node6" title=" " alt="" coords="321,322,485,399"/>
+<area shape="rect" id="node9" title=" " alt="" coords="509,315,656,407"/>
+<area shape="rect" id="node5" title="STL class." alt="" coords="183,5,310,97"/>
+<area shape="rect" id="node7" title="STL class." alt="" coords="421,160,536,237"/>
+<area shape="rect" id="node8" title=" " alt="" coords="509,13,547,90"/>
+<area shape="rect" id="node10" title="STL class." alt="" coords="560,160,680,237"/>
+<area shape="rect" id="node11" title=" " alt="" coords="654,13,693,90"/>
+</map>
