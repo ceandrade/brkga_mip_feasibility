@@ -190,3 +190,21 @@ The parameters are divided into 7 sections:
 	+ Duals: only constraints such dual values in the relaxation are not zero.
 	+ SlacksAndDuals: as in "Duals" but also consider constraints with slacl values equal to zero.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+This is an example:
+
+```bash
+./brkga-feasibility-pump \
+    brkga_tuned.conf 1883634842 Iterations 1000 3600 \
+    ../instances/miplib/1h/atm20-100.mps.gz ./results 1 DefaultFP  \
+    OBJ Geometric 0.0 0.9 7 \
+    FP 10 Perturb 10 -0.2 0.5 \
+    OFP 0.85 0.0001 \
+    FIXING 0.10 0.05 1 Zeros \
+    ROUNDINGCUTS 0.0  \
+    MIPLOCALSEARCH 0.04 0.0 0 60 all
+```
+
+Yes, this is a very long line to be written. So, I do recommend to use the
+`run.sh` script to test small changes.
+
