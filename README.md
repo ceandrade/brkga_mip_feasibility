@@ -80,9 +80,9 @@ all parameters, type `brkga-feasibility-pump --help`.
 
 The parameters are divided into 7 sections:
 
-BRKGA section
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- BRKGA section
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  - <config-file>: parameters of BRKGA algorithm.
  - <seed>: seed for random generator.
  - <stop-rule> <stop-arg>: stop rule and its arguments where:
@@ -103,9 +103,9 @@ BRKGA section
 	+ Default: default feasibility pump using only the distance function.
 	+ Objective: feasibility pump using a convex combination between the
 	             distance function and the original objective function.
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 OBJ - Objective-function parameters
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
  - <fitness-type>: defines how the fitness is computed:
 	+ Convex: the convex combination (beta * Delta) + (1 - beta) * zeta
